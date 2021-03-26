@@ -1,1 +1,1 @@
-# JSPokedex
+# A ruby gem that works as a Pokedex for the first Generation 151 pokemon. 
